@@ -1,0 +1,134 @@
+﻿Esther Brown
+Email: ebrown0727@gmail.com • Cell: (662) 660-0079 • Portfolio: github.com/esthergiles
+________________
+
+
+Objective
+Results-driven and ambitious technology professional with a passion for Front End Development and HCI/UX.
+ 
+CORE COMPETENCIES
+Object-Oriented Programming, Web Development, Technical Writing, UI/UX Design, GIT, Database Management, CI/CD Pipelines
+________________
+
+
+EDUCATION
+
+
+University of North Alabama • Florence, AL                                                        
+Bachelor of Science                                                                                 2018-2022
+Major: Information Technology
+Minor: Computer Science, Conc. Human-Computer Interaction and User Experience (HCI/UX)
+Relevant Coursework:  Database Management Systems (SQL/MongoDB), Obj Oriented Programming (Python), Enterprise Architecture (PHP), 
+Data Structures and Algorithms (C++, STL), Software Engineering (SDLC, Vue.js, and Agile Methodology), Artificial Intelligence (Python),
+Technical Writing, Multimodal Writing, Web Development (HTML, CSS, JavaScript)
+PHP Certification (2021)
+
+
+Northeast Mississippi Community College • Booneville, MS
+Associate of Applied Science                                                                          2016-2018
+Major: Information Systems Technology, Conc. Software Development
+________________
+
+
+PROFESSIONAL EXPERIENCE
+Various Clients        • Remote                                                                                October 2022-Present
+Freelance Wordpress and Digital Marketing 
+   * Collaborated with clients to fulfill web-related requests, ensuring timely and accurate completion and customer service
+   * Developed and implemented key user interface (UI) and user experience (UX) features for existing sites, enhancing usability 
+   * Demonstrated attention to detail through successful migration of hosted website files 
+   * Provided key input and configuration regarding technologies such as, web hosting, forms generators, and Google Analytics
+   * Leveraged strong knowledge of WordPress CMS to deliver high-quality web solutions
+   * Generated high fidelity designs via Figma and produced quality copyright for websites and blogs.
+
+
+Addison Technologies (Web Design and Digital Marketing Company) • Florence, AL                                  January 2019- May 2022
+Lead Digital Asset Strategist 
+   * Increased user engagement by more than 30% through the development and implementation of key digital asset strategies
+   * Collaborated with outside contractors, facilitating effective communication and project management
+   * Demonstrated ability to handle multiple priorities by maintaining web content across upwards of seventeen client’s 
+   * Provided regular analytics to the Digital Strategy Director, enabling data-driven decision-making and informed strategic planning
+   * Created visualization tools base on Google Analytics that decreased team decision making time by 68.5% and automated report delivery 
+   * Utilized technical writing practices to develop SOPs and deployed training curriculums of digital platforms for admin assistants 
+   * Effectively communicated complex technical concepts to non-technical team members, enabling them to contribute to project success.
+   * Built, tested, and deployed new features and articles for existing WordPress sites paying meticulous attention to detail, ensuring                      graphic standards and brand consistency
+
+
+Corinth Flower Shop • Corinth, MS                                                                         January 2016- May 2019
+Office Manager/Digital Marketing 
+   * Identified and mitigated risks that may impact order timelines and delivery while developing contingency plans as needed
+   * Collaborated with employees to generate workflows that improved productivity resulting in record high seasonal sales
+   * Provided exceptional customer service by promptly addressing client inquiries and resolving technical issues
+   * 2018 Valentine's Day: Business’s highest recorded engagement on a digital marketing campaign
+   * Conducted training and provided support for digital platforms, empowering employees to effectively utilize the systems
+   * Gained buy in from executive stakeholders at a Multi-Specialty Hospital to facilitate planning and execution of nonprofit event
+________________
+
+
+________________
+
+
+Personal Projects 
+
+
+   * Lion Snap App - Proof of concept web application for the University of North Alabama’s Student Nighttime Auxiliary Program
+   * Full-stack application utilizing HTML, CSS, Bootstrap, PHP, JavaScript, SQL, GitHub Repository, and Heroku for deployment
+   * Implemented CI/CD pipelines while gaining experience with paired programming and Azure Cloud Deployment. 
+   * Improved student safety on campus by creating an application for a university service ensuring brand consistency
+   * I investigated and implemented a solution to the 2022 Heroku OAuth user tokens hack.
+   * Annie Get Your IDE - Multimodal collections project centered around Women in STEM
+   * Static website utilizing HTML, CSS, JavaScript, and Bootstrap hosted on Github Pages
+   * Designed and implemented visually appealing, user-friendly interfaces. 
+   * Created a site to present resources in an appealing format and spread awareness of women's representation in STEM.
+   * Front-End Interface for Tutor Reservation System - Senior Level Software Engineering Project
+   * Front-end interface utilizing HTML, CSS, AJAX, JavaScript, Vue.js, Git
+   * Applied software engineering lifecycle, group communication, and agile methodology. Performed requirement analysis, created design documents, and implemented design. 
+   * Assisted in problem-solving related to application design, development, and user experiences.
+   * Book Recommender - Python AI Application. 
+   * Web application utilizing HTML, CSS, Bootstrap, JavaScript, Python, and Node.js. 
+   * Utilized Python’s machine learning technologies to develop a program that recommends books based on user ratings.
+
+
+________________
+
+
+ACTIVITIES, SOCIETIES, SERVICE
+
+
+Appalachian Trail Long Distance Hike                                                                  May 2022- May 2023
+* Researched, planned and executed a 2,000+ mile long  hike on the Appalachian Trail, demonstrating determination and problem-solving skills
+* Utilized a budget to monitor and control the financial aspects of this project
+* Meticulously planned logistics and resupply points for a smooth hiking experience
+* Built strong relationships within the hiking community through collaboration and communication
+* Adapted to unpredictable weather and trail conditions, showcasing and the ability to handle multiple priorities
+
+
+ 
+Common Ground Shoals                                                                          2021-2022
+* Engaged with K-12th grade students in a weekly after-school homework and literacy program, providing academic support and guidance
+* Led youth in computer programming of microcontroller devices during a University led Summer Camp event, facilitating hands-on learning and inspiring interest in technology
+
+
+NW Alabama BEST Robotics Competition                                                                  2021
+* Volunteered in maintaining robotics competition demo course assisting teams and promoting STEM education
+
+
+University of North Alabama                                                                          2019-2022
+* Represented UNA in the International Collegiate Programming Competition, showcasing technical experience in C++ and problem-solving skills 
+* Served as Secretary for the Association for Information Systems (AIS), contributing to organizational activities and fostering collaboration
+
+
+Share the Love with Oasis Medical Clinic                                                                  2018
+* Coordinated fundraising events for a local nonprofit
+* Gained buy-in from various stakeholders, assisted with the defining of requirements for user interface, managed digital marketing efforts to gain awareness for events, and managed day of operations
+
+
+
+
+
+
+
+
+
+
+Agile, 
+* Algorithms, Android, Angular, API, AWS, Azure, Bootstrap, C, C#, C++, Cloud, Data structures, Deep learning, DevOps, Django, Docker, Embedded systems, Git, Golang, Hadoop, HTML, Java, JavaScript, Jupyter, Kubernetes, Linux, Machine learning, Matlab, Microservices, Mobile, MySQL, Natural language processing, Neural networks, NoSQL, Object-oriented programming, Oracle, Pandas, PHP, Python, R, React, Redis, REST, Ruby, Scala, Spring, SQL, TensorFlow, Unix, Automation, Big data, Caching, Cloud computing, Concurrency, Containerization, Cryptography, Data analysis, Data engineering, Data visualization, Debugging, Design patterns, Embedded systems, Event-driven architecture, Git, Hadoop, Information security, Integration testing, IoT, JIRA, JSON, Load testing, Logic, Machine learning, MVC, Networking, OOP, Optimization, Performance testing, Persistence, Portability, Quality assurance, Reliability, Scalability, Search engines, Security, Selenium, SOA, Software design, Software development life cycle, Software testing, SQL, System administration, TCP/IP, TDD, Testing frameworks, Text processing, UML, Unit testing, Web development, IaC,
